@@ -1,0 +1,92 @@
+{
+  "title": "4ACEs alkalmazás",
+  "select_picture_instruction": "Válassza ki azt a képet, amely a legjobban illik a hallott mondathoz.",
+  "welcome": "Üdvözöljük!",
+  "highscore": "Legmagasabb pontszám:",
+  "start_new_game": "Új játék indítása",
+  "choose_your_language": "Válassza ki a nyelvet",
+  "loading": "Betöltés...",
+  "game_over": "Játék vége! Pontszámod:",
+  "submit_score": "Pontszám beküldése",
+  "back_to_home": "Vissza a kezdőlapra",
+  "play_again": "Játssz újra",
+  "round": "Kör",
+  "score": "Pontszám:",
+  "quit": "Kilépés",
+  "apple": "Alma",
+  "bike": "Bicikli",
+  "car": "Autó",
+  "cat": "Macska",
+  "dog": "Kutya",
+  "motorcycle": "Motorkerékpár",
+  "tree": "Fa",
+  "correct": "Helyes!",
+  "apple_sentences": [
+    "Az alma piros és lédús.",
+    "Szeretem az almás pitét."
+  ],
+  "bike_sentences": [
+    "A bicikli egy környezetbarát közlekedési eszköz.",
+    "Megtanultam biciklizni, amikor hatéves voltam."
+  ],
+  "car_sentences": [
+    "Az új autóm nagyon gyors.",
+    "Mindig becsatolom a biztonsági övet az autóban."
+  ],
+  "cat_sentences": [
+    "A macskám szeret a napon sütkérezni.",
+    "A fekete macska szerencsétlenséget hoz."
+  ],
+  "dog_sentences": [
+    "A kutyám mindig csóválja a farkát, amikor meglát.",
+    "Sétálni viszem a kutyát a parkba."
+  ],
+  "motorcycle_sentences": [
+    "A motorozás a szabadság érzését adja.",
+    "A motorosoknak sisakot kell viselniük."
+  ],
+  "tree_sentences": [
+    "A fa árnyékot ad a forró nyári napokon.",
+    "Minden tavasszal virágba borulnak a fák."
+  ],
+  "pirospaprika_sentences": [
+    "A pirospaprika tradicionális fűszer levesekbe és főfogásokba."
+  ],
+  "toltottpaprika_sentences": [
+    "A töltöttpaprika gyakran elkészített főétel az ünnepnapokon."
+  ],
+  "komondor_sentences": [
+    "A komondor egy pásztorkutya, amit a legrégebben tenyésztenek Magyarországon."
+  ],
+  "parlament_sentences": [
+    "A parlament a magyar főváros egyik leggyakrabban látogatott látnivalója."
+  ],
+  "korona_sentences": [
+    "Az ország címerében szereplő korona a magyarok egyik jelképe."
+  ],
+  "szent_istvan_napi_kenyer_sentences": [
+    "A \"Szent István-napi kenyér\" egy évente megrendezett országos verseny, amelynek győztese elnyeri \"Az év kenyere\" címet."
+  ],
+  "gulyas_sentences": [
+    "A 19. században a gulyás volt az egyik leggyakoribb parasztétel a polgári és a nemesi konyhában."
+  ],
+  "kurtoskalacs_sentences": [
+    "A magyar nyelvterületen a kürtőskalács parázs fölött forgatott, dorongon sült sütemény."
+  ],
+  "himzeses_teritok_sentences": [
+    "A magyar hagyományok egyik része az élénk színeket tartalmazó hímzéses terítők, ruhadarabok."
+  ],
+  "termalfurdok_sentences": [
+    "A főváros közelében számos helyen találhatók termálfürdők."
+  ],
+  "pirospaprika": "Pirospaprika",
+  "toltottpaprika": "Töltöttpaprika",
+  "komondor": "Komondor",
+  "parlament": "Parlament",
+  "korona": "Korona",
+  "szent_istvan_napi_kenyer": "Szent István napi kenyér",
+  "gulyas": "Gulyás",
+  "kurtoskalacs": "Kürtőskalács",
+  "himzeses_teritok": "Hímzéses terítők",
+  "termalfurdok": "Termálfürdők"
+}

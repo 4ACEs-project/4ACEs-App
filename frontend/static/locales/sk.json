@@ -1,0 +1,282 @@
+{
+  "title": "Aplikácia 4ACEs",
+  "select_picture_instruction": "Vyberte obrázok, ktorý najlepšie zodpovedá vete, ktorú ste počuli.",
+  "welcome": "Vitajte!",
+  "highscore": "Najvyššie skóre:",
+  "start_new_game": "Začať novú hru",
+  "choose_your_language": "Vyberte si jazyk",
+  "loading": "Načítava sa...",
+  "game_over": "Koniec hry! Vaše skóre:",
+  "submit_score": "Odoslať skóre",
+  "back_to_home": "Späť na domovskú stránku",
+  "play_again": "Hrať znova",
+  "round": "Kolo",
+  "score": "Skóre:",
+  "quit": "Ukončiť",
+  "correct": "Správne!",
+  "apple": "Jablko",
+  "bike": "Bicykel",
+  "car": "Auto",
+  "cat": "Mačka",
+  "dog": "Pes",
+  "motorcycle": "Motocykel",
+  "tree": "Strom",
+  "apple_sentences": [
+    "Jablko je symbolom zdravia.",
+    "Jablková štrúdľa je tradičný slovenský zákusok."
+  ],
+  "bike_sentences": [
+    "Bicykel je ideálny na výlety do prírody.",
+    "Na bicykli sa dostanem do práce rýchlejšie ako autom."
+  ],
+  "car_sentences": [
+    "Naše auto je pokazené, musíme ísť autobusom.",
+    "Na Slovensku je povinné svietiť aj cez deň."
+  ],
+  "cat_sentences": [
+    "Moja mačka sa rada hrá s klbkom vlny.",
+    "Hovorí sa, že mačky majú deväť životov."
+  ],
+  "dog_sentences": [
+    "Môj pes je strážcom nášho domu.",
+    "Pes je verný spoločník."
+  ],
+  "motorcycle_sentences": [
+    "Motorka je nebezpečná, ak sa nejazdí opatrne.",
+    "Na motorke je povinná prilba."
+  ],
+  "tree_sentences": [
+    "Stromy sú pľúcami našej planéty.",
+    "Pod stromom je príjemný chládok."
+  ],
+  "tucniak_sentences": [
+    "Tučniak je vták, ktorý nevie lietať.",
+    "Tučniak je čiernobiele zviera."
+  ],
+  "lenochod_sentences": [
+    "Leňochod je veľmi pomalé zviera.",
+    "Leňochod žije vysoko na stromoch."
+  ],
+  "bryndza_sentences": [
+    "Bryndza je slaný syr z ovčieho mlieka.",
+    "Bryndza sa dáva na halušky."
+  ],
+  "zincica_sentences": [
+    "Žinčica je kyslastý nápoj z ovčieho mlieka.",
+    "Žinčica sa pije na salaši."
+  ],
+  "pistala_sentences": [
+    "Píšťala je dychový hudobný nástroj.",
+    "Píšťala sa tradične vyrába z dreva."
+  ],
+  "kapustnica_sentences": [
+    "Kapustnica je tradičná slovenská polievka",
+    "Kapustnica sa varí na Vianoce."
+  ],
+  "gulas_sentences": [
+    "Guláš pochádza z Maďarska.",
+    "Guláš sa varí v kotlíku na ohni."
+  ],
+  "hus_sentences": [
+    "Hus je domáce zviera.",
+    "Hus je vták bielej farby."
+  ],
+  "labut_sentences": [
+    "Labuť je vták s dlhým krkom.",
+    "Labuť žije pri jazerách a rybníkoch."
+  ],
+  "mamut_sentences": [
+    "Mamut sa v praveku lovil pre mäso.",
+    "Mamut je vyhynuté zviera."
+  ],
+  "dinosaurus_sentences": [
+    "Dinosaurus je vyhynuté zviera.",
+    "Dinosaurus je obľúbenou detskou hračkou."
+  ],
+  "chladnicka_sentences": [
+    "Chladničku nájdeme zvyčajne v kuchyni.",
+    "Chladnička uchováva potraviny v chlade."
+  ],
+  "mikrovlnka_sentences": [
+    "Mikrovlnka zohrieva jedlo.",
+    "Mikrovlnku nájdeme zvyčajne v kuchyni."
+  ],
+  "teleskop_sentences": [
+    "Cez teleskop pozorujeme hviezdy.",
+    "Teleskop používa astronóm."
+  ],
+  "mikroskop_sentences": [
+    "Mikroskop sa používa v laboratóriu.",
+    "Mikroskop zväčšuje obraz."
+  ],
+  "chobotnica_sentences": [
+    "Chobotnica má osem nôh.",
+    "Chobotnica žije na dne mora."
+  ],
+  "rak_sentences": [
+    "Rak má tvrdý pancier.",
+    "Rak má klepetá, ktorými sa chráni."
+  ],
+  "kroj_sentences": [
+    "Kroj je tradičné oblečenie.",
+    "Kroj je farebný a bohato vyšívaný."
+  ],
+  "zastera_sentences": [
+    "Zástera chráni oblečenie pred zašpinením.",
+    "Zástera sa viaže okolo pása."
+  ],
+  "klavesnica_sentences": [
+    "Klávesnica sa používa pri práci na počítači.",
+    "Klávesnica má písmená, čísla a znaky."
+  ],
+  "sluchadla_sentences": [
+    "Slúchadlá sa dávajú na uši.",
+    "Cez slúchadlá počúvame hudbu."
+  ],
+  "hrable_sentences": [
+    "Hrable sú záhradné náradie.",
+    "Hrable sa používajú na hrabanie suchého lístia."
+  ],
+  "kosa_sentences": [
+    "Kosa je náradie na kosenie trávy.",
+    "Kosa musí byť dobre nabrúsená."
+  ],
+  "koruna_sentences": [
+    "Korunu nosí kráľ.",
+    "Koruna sa nosí na hlave."
+  ],
+  "tron_sentences": [
+    "Trón je kreslo, na ktorom sedí kráľ.",
+    "Trón sa nachádza v paláci alebo na hrade."
+  ],
+  "mozog_sentences": [
+    "Mozog riadi celé telo.",
+    "Mozog sa nachádza v hlave."
+  ],
+  "pluca_sentences": [
+    "Pľúca sú orgánom dýchania.",
+    "Pľúca sú chránené rebrami."
+  ],
+  "pila_sentences": [
+    "Píla je náradie na rezanie dreva.",
+    "Pílu používa stolár."
+  ],
+  "sulance_sentences": [
+    "Šúľance sú tradičné múčne jedlo.",
+    "Šúľance sa podávajú s makom alebo orechmi."
+  ],
+  "halusky_sentences": [
+    "Halušky sú slovenské národné jedlo.",
+    "Halušky sa podávajú s bryndzou a slaninou."
+  ],
+  "tucniak": "Tučniak",
+  "lenochod": "Leňochod",
+  "bryndza": "Bryndza",
+  "zincica": "Žinčica",
+  "pistala": "Píšťala",
+  "kapustnica": "Kapustnica",
+  "gulas": "Guláš",
+  "hus": "Hus",
+  "labut": "Labuť",
+  "mamut": "Mamut",
+  "dinosaurus": "Dinosaurus",
+  "chladnicka": "Chladnička",
+  "mikrovlnka": "Mikrovlnka",
+  "teleskop": "Teleskop",
+  "mikroskop": "Mikroskop",
+  "chobotnica": "Chobotnica",
+  "rak": "Rak",
+  "kroj": "Kroj",
+  "zastera": "Zástera",
+  "klavesnica": "Klávesnica",
+  "sluchadla": "Slúchadlá",
+  "hrable": "Hrable",
+  "kosa": "Kosa",
+  "koruna": "Koruna",
+  "tron": "Trón",
+  "mozog": "Mozog",
+  "pluca": "Pľúca",
+  "pila": "Píla",
+  "sulance": "Šúľance",
+  "halusky": "Halušky",
+  "meduza_sentences": [
+    "Medúza je morský živočích.",
+    "Medúza má rôsolovité telo."
+  ],
+  "meduza": "Medúza",
+  "gajdy_sentences": [
+    "Gajdy sú dychový hudobný nástroj.",
+    "Gajdy majú charakteristický zvuk."
+  ],
+  "gajdy": "Gajdy",
+  "mixer_sentences": [
+    "Mixér je kuchynský spotrebič.",
+    "Mixér slúži na miešanie."
+  ],
+  "mixer": "Mixér",
+  "demikat_sentences": [
+    "Demikát je tradičná slovenská polievka z bryndze.",
+    "Demikát sa často podáva s opraženým chlebom."
+  ],
+  "demikat": "Demikát",
+  "kacka_sentences": [
+    "Kačka je vodný vták.",
+    "Kačka pláva na jazere."
+  ],
+  "kacka": "Kačka",
+  "lokse_sentences": [
+    "Lokše sú zemiakové placky.",
+    "Lokše sa jedia s masťou alebo makom."
+  ],
+  "lokse": "Lokše",
+  "lupa_sentences": [
+    "Lupa je nástroj na zväčšenie.",
+    "Lupa pomáha čítať malé písmená."
+  ],
+  "lupa": "Lupa",
+  "mys_sentences": [
+    "Myš je malý hlodavec.",
+    "Mačka loví myši."
+  ],
+  "mys": "Myš",
+  "ostiepok_sentences": [
+    "Oštiepok je údený syr z ovčieho mlieka.",
+    "Oštiepok má tvar vajíčka."
+  ],
+  "ostiepok": "Oštiepok",
+  "ryl_sentences": [
+    "Rýľ je nástroj na kopanie.",
+    "Rýľom sa rýľuje záhrada."
+  ],
+  "ryl": "Rýľ",
+  "slon_sentences": [
+    "Slon je veľké zviera s chobotom.",
+    "Slon žije v Afrike a Ázii."
+  ],
+  "slon": "Slon",
+  "srdce_sentences": [
+    "Srdce je orgán, ktorý pumpuje krv.",
+    "Srdce je symbolom lásky."
+  ],
+  "srdce": "Srdce",
+  "tulen_sentences": [
+    "Tuleň je morský cicavec.",
+    "Tuleň žije v studených moriach."
+  ],
+  "tulen": "Tuleň",
+  "valaska_sentences": [
+    "Valaška je sekera s dlhým poriskom.",
+    "Valaška je symbolom slovenských pastierov."
+  ],
+  "valaska": "Valaška",
+  "vesta_sentences": [
+    "Vesta je časť oblečenia bez rukávov.",
+    "Vesta sa nosí na košeli."
+  ],
+  "vesta": "Vesta",
+  "zezlo_sentences": [
+    "Žezlo je symbol moci panovníka.",
+    "Kráľ drží v ruke žezlo."
+  ],
+  "zezlo": "Žezlo"
+}

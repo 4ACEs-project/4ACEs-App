@@ -1,0 +1,14 @@
+4ACEs AI App Against Alzheimer
+Welcome!
+Highscore:
+Start New Game
+Choose Your Language
+Loading…
+Game over! Your score:
+Submit Score
+Back to Home
+Play Again
+Round
+Score:
+Quit
+Correct!

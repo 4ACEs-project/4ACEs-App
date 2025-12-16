@@ -1,0 +1,52 @@
+{
+  "title": "4ACEs App",
+  "select_picture_instruction": "Select the picture that best matches the sentence you heard.",
+  "welcome": "Welcome!",
+  "highscore": "Highscore:",
+  "start_new_game": "Start New Game",
+  "choose_your_language": "Choose Your Language",
+  "loading": "Loading…",
+  "game_over": "Game over! Your score:",
+  "submit_score": "Submit Score",
+  "back_to_home": "Back to Home",
+  "play_again": "Play Again",
+  "round": "Round",
+  "score": "Score:",
+  "quit": "Quit",
+  "correct": "Correct!",
+  "apple": "Apple",
+  "bike": "Bike",
+  "car": "Car",
+  "cat": "Cat",
+  "dog": "Dog",
+  "motorcycle": "Motorcycle",
+  "tree": "Tree",
+  "apple_sentences": [
+    "Apples are a type of fruit.",
+    "An apple a day keeps the doctor away."
+  ],
+  "bike_sentences": [
+    "A bike has two wheels.",
+    "Riding a bike is good exercise."
+  ],
+  "car_sentences": [
+    "A car can take you to many places.",
+    "This is a red car."
+  ],
+  "cat_sentences": [
+    "A cat is a small domesticated carnivorous mammal.",
+    "The cat is sleeping on the mat."
+  ],
+  "dog_sentences": [
+    "A dog is a man's best friend.",
+    "The dog is barking."
+  ],
+  "motorcycle_sentences": [
+    "A motorcycle is a two-wheeled motor vehicle.",
+    "He rides his motorcycle to work."
+  ],
+  "tree_sentences": [
+    "A tree has a trunk, branches, and leaves.",
+    "The birds are singing in the tree."
+  ]
+}

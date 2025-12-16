@@ -1,0 +1,62 @@
+body { font-family: Arial, sans-serif; margin: 0; display: flex; flex-direction: column; }
+.app-container { width: 90vw; max-width: 1200px; margin: 0 auto; justify-content:center}
+header { display:flex;align-items:center;justify-content:center;margin-top:32px;margin-bottom:8px;gap:16px; }
+header img { height:80px;border:none; }
+header h1 { margin:0;color:#009de6;font-family:Arial,Helvetica,sans-serif;margin-left:8px;font-size: 2.4em; }
+.content { text-align:center; margin-top:32px; }
+.modern-btn {
+  background-color: #009de6;
+  color: white;
+  border: none;
+  padding: 16px 32px;
+  font-size: 26px;
+  cursor: pointer;
+  border-radius: 8px;
+  margin: 8px;
+}
+.modern-btn:hover {
+  background-color: #007bb5;
+}
+.modern-btn:active {
+  transform: scale(0.98);
+  background-color: #005f8c;
+}
+.game-container {
+  display: flex; flex-direction: column; align-items: center; margin-top: 8px; width: 100%; margin: 0 auto;
+}
+.game-stats { display: flex; align-items: center; justify-content: space-between; width: 100%; gap: 16px; }
+.game-stats h2, .game-stats p { margin: 0; font-size: 1.2em; }
+.game-area {
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.options { display: flex; gap: 32px; justify-content: center; width: 100%; }
+.option-image {
+  width: 45%;
+  max-width: 400px;
+  height: auto;
+  cursor: pointer;
+  object-fit: contain;
+  border: 2px solid transparent;
+  border-radius: 8px;
+}
+.option-image:hover {
+  border-color: #009de6;
+}
+img { }
+.lang-options { display: flex; gap: 32px; margin-top: 32px; justify-content: center; flex-wrap: wrap; max-width: 544px; margin: 0 auto; }
+.lang-options a { text-decoration: none; }
+.lang-options img, .game-flag { width: 160px; height: auto; border-radius: 8px; cursor: pointer; border: 1px solid #ccc; }
+.lang-options img:hover { border-color: #009de6; }
+.game-flag { height: 48px; width: auto; }
+
+/* Adjustments for text elements to scale up */
+body {
+    font-size: 1.1em; /* Increase base font size slightly */
+}
+.game-container p, .game-container h2, .game-container h3, .game-container div {
+    font-size: 1.2em; /* General text scaling */
+}
